@@ -80,6 +80,16 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT:
+OnCreate Executed:
 <img src="https://github.com/user-attachments/assets/b7e42e66-2dc0-4158-a879-aaa4dd25de53" width=200>
+OnPause Executed:
+<img src="https://github.com/user-attachments/assets/4e187497-08c0-4708-b8aa-13cf933c4fe6" width=200>
+OnResume Executed:
+<img src="https://github.com/user-attachments/assets/2a9fbfe2-4058-4e7d-9d1d-c4e890598740" width=200>
+OnRestart Executed:
+<img src="https://github.com/user-attachments/assets/aee59563-60c0-4428-a57b-2abddcf7efd8" width=200>
+OnStart Executed:
+<img src="https://github.com/user-attachments/assets/30bd7952-4605-4736-bbe8-69ba04bbad7c" width=200>
+
 ## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
